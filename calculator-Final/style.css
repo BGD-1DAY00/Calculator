@@ -41,7 +41,7 @@
 }
 
 .button:hover {
-    background-color: #323330;
+    background: linear-gradient(to left, white, blue);
     color: white;
     transition: 0.5s ease-in-out;
 }
